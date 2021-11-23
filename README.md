@@ -1,2 +1,4 @@
 # TelegramCrash
-Unknown Guy found the way to Crash Telegram... This is just LOL 
+This is Repository. 
+
+But... This is Exploit for Telegram 
