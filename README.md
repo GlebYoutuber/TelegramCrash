@@ -4,6 +4,7 @@ This is Repository.
 But... This is Exploit for Telegram 
 
 How to Use it:
+
 1.Run the python script, it will create a new file "output.txt"
 
 2.Run Telegram Desktop and go to "Saved Messages"
